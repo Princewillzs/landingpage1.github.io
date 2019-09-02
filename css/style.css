@@ -113,7 +113,7 @@ ul li a:hover {
 
 #box2 {
     float: right;
-    background: url("/img/illustration-mockups.svg");
+    background: url("../img/illustration-mockups.svg");
     background-size: 400px 300px;
     background-repeat: no-repeat;
     background-position: center;
@@ -150,7 +150,7 @@ ul li a:hover {
 }
 
 #sec-a .box2 {
-    background: url('/img/illustration-grow-together.svg');
+    background: url('../img/illustration-grow-together.svg');
     background-size: 400px 300px;
     background-repeat: no-repeat;
     background-position: right;
@@ -172,7 +172,7 @@ ul li a:hover {
 }
 
 #sec-b .box3 {
-    background: url('/img/illustration-flowing-conversation.svg');
+    background: url('../img/illustration-flowing-conversation.svg');
     background-size: 400px 300px;
     background-repeat: no-repeat;
     background-position: left;
@@ -215,7 +215,7 @@ ul li a:hover {
 } 
 
 #sec-c .box6 {
-    background: url('/img/illustration-your-users.svg');
+    background: url('../img/illustration-your-users.svg');
     background-size: 400px 300px;
     background-repeat: no-repeat;
     background-position: right;
